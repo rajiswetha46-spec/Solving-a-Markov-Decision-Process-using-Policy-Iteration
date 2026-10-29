@@ -1,4 +1,6 @@
 # Solving a Markov Decision Process using Policy Iteration
+### Name: Swetha R
+### Reg No: 212225100055
 
 ## Aim
 
@@ -230,17 +232,9 @@ def policy_iteration(env, gamma=0.99, theta=1e-8):
 
 ## Result
 
-```text
-
-
-
-```
+Thus, the Policy Evaluation, Policy Improvement, and Policy Iteration algorithms were implemented successfully using the Gymnasium FrozenLake-v1 environment. The state-value function was calculated for the initial random policy, and the policy was improved by selecting the best actions for different states. Finally, the Policy Iteration algorithm converged in 3 iterations and produced the optimal state-value function and optimal policy.
 ---
 
 ## Inference
-```text
-
-
-```
----
+Thus, the Policy Evaluation and Policy Iteration algorithms were implemented successfully using the FrozenLake-v1 environment. In the first output, the state-value function was calculated for the initial random policy, resulting in lower state values. In the second output, after performing policy evaluation and policy improvement repeatedly, the optimal state-value function and optimal policy were obtained. The state values increased for several states, and the optimal actions were identified to guide the agent towards the goal while avoiding holes. The Policy Iteration algorithm converged in 3 iterations.
 
