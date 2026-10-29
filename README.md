@@ -225,7 +225,7 @@ def policy_iteration(env, gamma=0.99, theta=1e-8):
 
 ## Output
 
-<img width="385" height="194" alt="Screenshot 2026-10-29 104441" src="https://github.com/user-attachments/assets/d2f18022-4106-45b5-aa87-8e9dc6a0e3e8" />
+<img width="385" height="194" alt="Screenshot 2026-10-29 104441" src="https://github.com/user-attachments/assets/d2f18022-4106-45b5-aa87-8e9dc6a0e3e8" /><br>
 <img width="473" height="361" alt="Screenshot 2026-10-29 104407" src="https://github.com/user-attachments/assets/61d6d904-0097-469f-809b-dc28f415a1d8" />
 
 ---
